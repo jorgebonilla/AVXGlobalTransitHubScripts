@@ -1,0 +1,31 @@
+version: 0.1
+phases:
+  install:
+    commands:
+      - echo Entered the install phase...
+      - apt-get update
+      - apt-get install -y zip curl
+      - echo Installing pip requirements...
+      - pip install -r requirements.txt
+  build:
+    commands:
+      - echo Entering the build phase...
+      - echo Testing the scripts
+      - echo Compilation Tests
+      - python -m py_compile AVXNGGlobalTransitHubScripts/scripts/aviatrix_poller.py
+      - python -m py_compile AVXNGGlobalTransitHubScripts/scripts/aviatrix_controller.py
+      - python -m py_compile AVXNGGlobalTransitHubScripts/scripts/aviatrix_gateway.py
+      - echo Run Unittest
+      - python -m unittest discover AVXNGGlobalTransitHubScripts/scripts
+  post_build:
+    commands:
+      - echo Entering the post_build phase...
+      - cd $CODEBUILD_SRC_DIR/AVXNGGlobalTransitHubScripts
+      - chmod 555 AVXNGGlobalTransitHubScripts/scripts/*
+      - zip -j AVXNGGlobalTransitHubScripts/scripts/aviatrix_controller.py.zip AVXNGGlobalTransitHubScripts/scripts/aviatrix_controller.py AVXNGGlobalTransitHubScripts/scripts/aviatrix3.py AVXNGGlobalTransitHubScripts/scripts/cfnresponse.py
+      - zip -j AVXNGGlobalTransitHubScripts/scripts/aviatrix_gateway.py.zip AVXNGGlobalTransitHubScripts/scripts/aviatrix_gateway.py AVXNGGlobalTransitHubScripts/scripts/aviatrix3.py AVXNGGlobalTransitHubScripts/scripts/cfnresponse.py
+      - zip -j AVXNGGlobalTransitHubScripts/scripts/aviatrix_poller.py.zip AVXNGGlobalTransitHubScripts/scripts/aviatrix_poller.py
+artifacts:
+  files:
+    - scripts/aviatrix_*.py.zip
+  base-directory: AVXNGGlobalTransitHubScripts

@@ -1,0 +1,2214 @@
+INFO:root:Connection failure to controller 52.38.223.61. Error={u'reason': u'User name/password does not match', u'return': False}
+INFO:root:Connection failure to controller 52.38.223.61. Error=User name/password does not match
+INFO:root:Connection failure to controller 52.38.223.61. Reason=User name/password does not match
+INFO:root:Connection successful to controller 52.38.223.61. CID=59efdc477d7b7
+INFO:root:Connection successful to controller 52.38.223.61. CID=59efdd644cdb2
+INFO:root:Connection successful to controller 52.38.223.61. CID=59efde5b721d7
+INFO:root:Connection successful to controller 52.38.223.61. CID=59efde6ccede0
+INFO:root:Admin Email not updated correctly. Reason:valid action required
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:Connection successful to controller 52.38.223.61. CID=59efdeaa9d41f
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=59efdeaa9d41f
+INFO:root:Admin Email not updated correctly. Reason:valid action required
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:Connection successful to controller 52.38.223.61. CID=59efdfe465d17
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=59efdfe465d17
+INFO:root:Admin Email not updated correctly. Reason:valid action required
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:Connection successful to controller 52.38.223.61. CID=59efe014088e6
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=59efe014088e6
+INFO:root:Admin Email not updated correctly. Reason:{u'reason': u'valid action required', u'return': False}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:Connection successful to controller 52.38.223.61. CID=59f0d3694fcba
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=59f0d3694fcba
+INFO:root:Admin Email not updated correctly. Reason:{u'reason': u'valid action required', u'return': False}
+INFO:root:Executing API call:https://54.215.172.233/v1/api?action=login&username=admin&password=Aviatrix234#
+INFO:root:Connection failure to controller 54.215.172.233. Reason=User name/password does not match
+INFO:root:Executing API call:https://54.215.172.233/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=
+INFO:root:Admin Email not updated correctly. Reason:{u'reason': u'CID required.', u'return': False}
+INFO:root:Executing API call:https://54.215.172.233/v1/api?action=login&username=admin&password=Aviatrix234%23
+INFO:root:Connection successful to controller 54.215.172.233. CID=ly2miSlwX7oszNoXkih7
+INFO:root:Executing API call:https://54.215.172.233/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=ly2miSlwX7oszNoXkih7
+INFO:root:Admin Email updated with jorge@aviatrix.com
+INFO:root:Executing API call:https://54.215.172.233/v1/api?action=login&username=admin&password=Aviatrix234%23
+INFO:root:Connection successful to controller 54.215.172.233. CID=Gphlqe0uExcXWFh5EvfM
+INFO:root:Executing API call:https://54.215.172.233/v1/api?action=add_admin_email_addr&admin_email=viji@aviatrix.com&CID=Gphlqe0uExcXWFh5EvfM
+INFO:root:Admin Email updated with viji@aviatrix.com
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:Connection successful to controller 52.38.223.61. CID=59f0d655e3c1f
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=viji@aviatrix.com&CID=59f0d655e3c1f
+INFO:root:Admin Email updated with viji@aviatrix.com
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:Connection successful to controller 52.38.223.61. CID=59f0d7d21485f
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=viji@aviatrix.com&CID=59f0d7d21485f
+INFO:root:Admin Email updated with viji@aviatrix.com
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:Connection successful to controller 52.38.223.61. CID=59f0d7f4cdb8b
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=59f0d7f4cdb8b
+INFO:root:Admin Email updated with jorge@aviatrix.com
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=initial_setup&subaction=run&CID=59f0d7f4cdb8b
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:Connection successful to controller 52.38.223.61. CID=59f0db6e8e172
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=59f0db6e8e172
+INFO:root:Admin Email updated with jorge@aviatrix.com
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=initial_setup&subaction=run&CID=59f0db6e8e172
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:Connection successful to controller 52.38.223.61. CID=59f0ec5774d91
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=59f0ec5774d91
+INFO:root:Admin Email updated with jorge@aviatrix.com
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=initial_setup&subaction=run&CID=59f0ec5774d91
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:Connection successful to controller 52.38.223.61. CID=59f0ec6c7a7e8
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=59f0ec6c7a7e8
+INFO:root:Admin Email updated with jorge@aviatrix.com
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=initial_setup&subaction=run&CID=59f0ec6c7a7e8
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"Z37OzYVheuKSJmOuPjQt"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"gOAUr1fSRbaxadyUw45h"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"Lfu90OPHyYKUuZRGwA4x"}
+INFO:root:Connection successful to controller 52.38.223.61. CID=Lfu90OPHyYKUuZRGwA4x
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=Lfu90OPHyYKUuZRGwA4x
+INFO:root:HTTP Response: {"return":true,"results":"admin email address has been successfully added"}
+INFO:root:Admin Email updated with jorge@aviatrix.com
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=initial_setup&subaction=run&CID=Lfu90OPHyYKUuZRGwA4x
+INFO:root:HTTP Response: {"return":false,"reason":"valid action required"}
+INFO:root:Initial Update Failed. Reason:{u'reason': u'valid action required', u'return': False}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"UUgzl7kWiK9mmlJ7ufOG"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=UUgzl7kWiK9mmlJ7ufOG
+INFO:root:HTTP Response: {"return":true,"results":"admin email address has been successfully added"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"L6UW8hfukK1r00hoP9fo"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=L6UW8hfukK1r00hoP9fo
+INFO:root:HTTP Response: {"return":true,"results":"admin email address has been successfully added"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=change_password&password=Aviatrix123#&user_name=admin&account_name=admin&CID=L6UW8hfukK1r00hoP9fo&old_password=10.0.1.215
+INFO:root:HTTP Response: {"return":false,"reason":"CID required."}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"FEJztdrxAK3is9yP8SCC"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=FEJztdrxAK3is9yP8SCC
+INFO:root:HTTP Response: {"return":true,"results":"admin email address has been successfully added"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=change_password&password=Aviatrix123#&user_name=admin&account_name=admin&CID=FEJztdrxAK3is9yP8SCC&old_password=10.0.1.215
+INFO:root:HTTP Response: {"return":false,"reason":"CID required."}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=10.0.1.215
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"JGUjva7AVWf6t3j3iWqi"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=JGUjva7AVWf6t3j3iWqi
+INFO:root:HTTP Response: {"return":true,"results":"admin email address has been successfully added"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=change_password&password=Aviatrix123%23&user_name=admin&account_name=admin&CID=JGUjva7AVWf6t3j3iWqi&old_password=10.0.1.215
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin password has been changed successfully"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"eYc51srHJUw6FUwVUfbe"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=initial_setup&subaction=run&CID=eYc51srHJUw6FUwVUfbe
+INFO:root:HTTP Response: {"return":false,"reason":"valid action required"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"15gYTjcyZQ7Hqlc8eqYX"}
+INFO:root:Executing API call:https://52.38.223.61/v1/api?action=initial_setup&subaction=run&CID=15gYTjcyZQ7Hqlc8eqYX
+INFO:root:HTTP Response: {"return":false,"reason":"valid action required"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=login&username=admin&password=10.0.1.139
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"59f1017292257"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=59f1017292257
+INFO:root:HTTP Response: {"return":false,"reason":"valid action required"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=change_password&password=Aviatrix123%23&user_name=admin&account_name=admin&CID=59f1017292257&old_password=10.0.1.215
+INFO:root:HTTP Response: {"return":false,"reason":"User name\/password does not match"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":false,"reason":"User name\/password does not match"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=initial_setup&subaction=run&CID=59f1017292257
+INFO:root:HTTP Response: {"return":false,"reason":"valid action required"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=login&username=admin&password=10.0.1.139
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"59f1028542fbe"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=59f1028542fbe
+INFO:root:HTTP Response: {"return":true,"results":"admin email address has been successfully added"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=change_password&password=Aviatrix123%23&user_name=admin&account_name=admin&CID=59f1028542fbe&old_password=10.0.1.215
+INFO:root:HTTP Response: {"return":false,"reason":"User name\/password does not match"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":false,"reason":"User name\/password does not match"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=initial_setup&subaction=run&CID=59f1028542fbe
+INFO:root:HTTP Response: 180{"return":false}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=login&username=admin&password=10.0.1.139
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"jGtrpVVi4wkCafstCc4x"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=jGtrpVVi4wkCafstCc4x
+INFO:root:HTTP Response: {"return":true,"results":"admin email address has been successfully added"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=change_password&password=Aviatrix123%23&user_name=admin&account_name=admin&CID=jGtrpVVi4wkCafstCc4x&old_password=10.0.1.139
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin password has been changed successfully"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"0QdvG2uurmUdBv8ga6HC"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=initial_setup&subaction=run&CID=0QdvG2uurmUdBv8ga6HC
+INFO:root:HTTP Response: {"return":false,"reason":"valid action required"}
+INFO:root:Executing API call:https://52.25.53.186/v1/api?action=login&username=admin&password=10.0.1.139
+INFO:root:HTTP Response: {"return":false,"reason":"User name\/password does not match"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=10.0.1.195
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"59f11afc56768"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=59f11afc56768
+INFO:root:HTTP Response: {"return":true,"results":"admin email address has been successfully added"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=change_password&password=Aviatrix123%23&user_name=admin&account_name=admin&CID=59f11afc56768&old_password=10.0.1.195
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin password has been changed successfully"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"59f11b0241d96"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=initial_setup&subaction=run&CID=59f11b0241d96
+INFO:root:HTTP Response: 180{"return":false}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=10.0.1.195
+INFO:root:HTTP Response: {"return":false,"reason":"User name\/password does not match"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=10.0.1.195
+INFO:root:HTTP Response: {"return":false,"reason":"User name\/password does not match"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"mTvnDnDsQLPjMtVlCmFA"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=setup_account_profile&account_password=Aviatrix123%23&cloud_type=1&account_email=jorge@aviatrix.com&CID=mTvnDnDsQLPjMtVlCmFA&aws_account_number=910395570553&account_name=AWS_Account&aws_role_arn=arn:aws:iam::910395570553:role/aviatrix-role-app&aws_role_ec2=arn:aws:iam::910395570553:role/aviatrix-ec2-app
+INFO:root:HTTP Response: {"return":false,"reason":"aws_access_key required."}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"s1rElMWgtwC2A77h4g60"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=setup_account_profile&account_password=Aviatrix123%23&cloud_type=1&account_email=jorge@aviatrix.com&CID=s1rElMWgtwC2A77h4g60&aws_account_number=910395570553&account_name=AWS_Account&aws_role_arn=arn:aws:iam::910395570553:role/aviatrix-role-app&aws_role_ec2=arn:aws:iam::910395570553:role/aviatrix-ec2-app
+INFO:root:HTTP Response: {"return":false,"reason":"aws_access_key required."}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"UHbYqUyJ045rBEZkbLhc"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=setup_account_profile&account_password=Aviatrix123%23&cloud_type=1&account_email=jorge@aviatrix.com&CID=UHbYqUyJ045rBEZkbLhc&aws_account_number=910395570553&account_name=AWS_Account&aws_role_arn=arn:aws:iam::910395570553:role/aviatrix-role-app&aws_role_ec2=arn:aws:iam::910395570553:role/aviatrix-ec2-app
+INFO:root:HTTP Response: {"return":false,"reason":"aws_access_key required."}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"FRn09e7j8rzZzfTqRLUI"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=setup_account_profile&account_password=Aviatrix123%23&cloud_type=1&account_email=jorge@aviatrix.com&CID=FRn09e7j8rzZzfTqRLUI&aws_role_arn=arn:aws:iam::910395570553:role/aviatrix-role-app&aws_account_number=910395570553&account_name=AWS_Account&aws_aim=True&aws_role_ec2=arn:aws:iam::910395570553:role/aviatrix-ec2-app
+INFO:root:HTTP Response: {"return":false,"reason":"aws_access_key required."}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"ke8LNKqen8SQh13grCYs"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"OEyGwdI0FxDoDYz6jNcs"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"XFzgKUFKSD17edfXcfwJ"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=setup_account_profile&account_password=Aviatrix123%23&cloud_type=1&account_email=jorge@aviatrix.com&CID=XFzgKUFKSD17edfXcfwJ&aws_role_arn=arn:aws:iam::910395570553:role/aviatrix-role-app&aws_account_number=910395570553&account_name=AWS_Account&aws_aim=true&aws_role_ec2=arn:aws:iam::910395570553:role/aviatrix-ec2-app
+INFO:root:HTTP Response: {"return":false,"reason":"aws_access_key required."}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"cLcMt3EYZ60ZT99Tacfa"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=setup_account_profile&account_password=Aviatrix123%23&cloud_type=1&account_email=jorge@aviatrix.com&CID=cLcMt3EYZ60ZT99Tacfa&aws_role_arn=arn:aws:iam::910395570553:role/aviatrix-role-app&aws_account_number=910395570553&account_name=AWS_Account&aws_iam=true&aws_role_ec2=arn:aws:iam::910395570553:role/aviatrix-ec2-app
+INFO:root:HTTP Response: {"return":true,"results":"An email with instructions has been sent to jorge@aviatrix.com"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"ZgTX6GSEEs2blgbisCDU"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=connect_container&vpc_reg=us-west-2&vpc_size=t2.micro&cloud_type=1&CID=ZgTX6GSEEs2blgbisCDU&vpc_id=vpc-079bf161&gw_name=test_GW&account_name=admin&vpc_net=subnet-5fc68b04
+INFO:root:HTTP Response: {"return":false,"reason":"Credentials not found for account admin cloud type 1"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"ehpjuockRz0fiKo5WF8R"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=connect_container&vpc_reg=us-west-2&vpc_size=t2.micro&cloud_type=1&CID=ehpjuockRz0fiKo5WF8R&vpc_id=vpc-079bf161&gw_name=test_GW&account_name=AWS_Account&vpc_net=subnet-5fc68b04
+INFO:root:HTTP Response: {"return":false,"reason":"Gateway name should not contain special characters. Aborting..."}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"HhufQIXflD4rdLP2wGJn"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=connect_container&vpc_reg=us-west-2&vpc_size=t2.micro&cloud_type=1&CID=HhufQIXflD4rdLP2wGJn&vpc_id=vpc-079bf161&gw_name=testGW&account_name=AWS_Account&vpc_net=subnet-5fc68b04
+INFO:root:HTTP Response: {"return":false,"reason":"Specified subnet subnet-5fc68b04 does not exist"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"gpS2fQ0tg5YZBuk6byFq"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=connect_container&vpc_reg=us-west-2&vpc_size=t2.micro&cloud_type=1&CID=gpS2fQ0tg5YZBuk6byFq&vpc_id=vpc-079bf161&gw_name=testGW&account_name=AWS_Account&vpc_net=10.0.1.0/24
+INFO:root:HTTP Response: {"return":false,"reason":"Customer ID is not setup. abort"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"wf5sIhdjqkmS0DEmskVi"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=setup_customer_id&customer_id=jorge-trial-1495122121.16&CID=wf5sIhdjqkmS0DEmskVi
+INFO:root:HTTP Response: {"return":true,"results":{"license_list":[{"Lic-1495122186.61":{"Verified":0,"Type":"c4.4xlarge","Expiration":"2017-06-17","Allocated":0,"IssueDate":"2017-05-18","Quantity":10}},{"Lic-1498245145.83":{"Verified":0,"Type":"c4.4xlarge","Expiration":"2018-06-23","Allocated":6,"IssueDate":"2017-06-23","Quantity":10}}],"CustomerID":"jorge-trial-1495122121.16"}}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"jjVipVckMUk4EWmTQ51U"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=connect_container&vpc_reg=us-west-2&vpc_size=t2.micro&cloud_type=1&CID=jjVipVckMUk4EWmTQ51U&vpc_id=vpc-079bf161&gw_name=testGW&account_name=AWS_Account&vpc_net=10.0.1.0/24
+INFO:root:HTTP Response: {"return":false,"reason":"BotoServerError: 404 Not Found\n<ErrorResponse xmlns=\"https:\/\/iam.amazonaws.com\/doc\/2010-05-08\/\">\n  <Error>\n    <Type>Sender<\/Type>\n    <Code>NoSuchEntity<\/Code>\n    <Message>Role not found for aviatrix-ec2-app<\/Message>\n  <\/Error>\n  <RequestId>a4fe3e6a-ba68-11e7-b018-3f051611aede<\/RequestId>\n<\/ErrorResponse>\n"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"GY0xS6aBJBkM8E5xruJr"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=connect_container&vpc_reg=us-west-2&vpc_size=t2.micro&cloud_type=1&CID=GY0xS6aBJBkM8E5xruJr&vpc_id=vpc-079bf161&gw_name=testGW&account_name=AWS_Account&vpc_net=10.0.1.0/24
+INFO:root:HTTP Response: {"return":false,"reason":"BotoServerError: 404 Not Found\n<ErrorResponse xmlns=\"https:\/\/iam.amazonaws.com\/doc\/2010-05-08\/\">\n  <Error>\n    <Type>Sender<\/Type>\n    <Code>NoSuchEntity<\/Code>\n    <Message>Role not found for aviatrix-ec2-app<\/Message>\n  <\/Error>\n  <RequestId>46123f05-ba6a-11e7-995f-afa65320bd29<\/RequestId>\n<\/ErrorResponse>\n"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"u6YKxzVVMZzW7is3dSk7"}
+INFO:root:Executing API call:https://34.212.17.238/v1/api?action=connect_container&vpc_reg=us-west-2&vpc_size=t2.micro&cloud_type=1&CID=u6YKxzVVMZzW7is3dSk7&vpc_id=vpc-079bf161&gw_name=testGW&account_name=AWS_Account&vpc_net=10.0.1.0/24
+INFO:root:HTTP Response: {"return":true,"results":"Successfully created Gateway testGW.  Congratulations!!"}
+INFO:root:Executing API call:https://34.209.206.243/v1/api?action=login&username=admin&password=10.0.1.144
+INFO:root:Executing API call:https://34.209.206.243/v1/api?action=login&username=admin&password=10.0.1.144
+INFO:root:Executing API call:https://34.209.206.243/v1/api?action=login&username=admin&password=10.0.1.144
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"59f258237091e"}
+INFO:root:Executing API call:https://34.209.206.243/v1/api?action=add_admin_email_addr&admin_email=jorge@aviatrix.com&CID=59f258237091e
+INFO:root:HTTP Response: {"return":true,"results":"admin email address has been successfully added"}
+INFO:root:Executing API call:https://34.209.206.243/v1/api?action=change_password&password=Aviatrix123%23&old_password=10.0.1.144&user_name=admin&account_name=admin&CID=59f258237091e
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin password has been changed successfully"}
+INFO:root:Executing API call:https://34.209.206.243/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"59f2582979dfa"}
+INFO:root:Executing API call:https://34.209.206.243/v1/api?action=initial_setup&subaction=run&CID=59f2582979dfa
+INFO:root:HTTP Response: {"return":true,"results":180}
+INFO:root:Executing API call:https://18.217.14.45/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"zTdmLLiVgb9ADx6gzAur"}
+INFO:root:Executing API call:https://18.217.14.45/v1/api?action=list_peer_vpc_pairs&CID=zTdmLLiVgb9ADx6gzAur
+INFO:root:HTTP Response: {"return":true,"results":{"pair_list":[]}}
+INFO:root:Executing API call:https://demo.aviatrixdemo.com/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:Executing API call:https://demo.aviatrixdemo.com/v1/api?action=list_peer_vpc_pairs&CID=
+INFO:root:Executing API call:https://demo.aviatrixdemo.com/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:Executing API call:https://demo.aviatrixtest.com/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:Executing API call:https://52.41.237.237/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-east-1.amazonaws.com
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Resetting dropped connection: ec2.us-east-1.amazonaws.com
+INFO:root:Executing API call:https://34.231.196.70/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"ycIwEyF4UzGrGkciGnn5"}
+INFO:root:Executing API call:https://34.231.196.70/v1/api?action=list_peer_vpc_pairs&CID=ycIwEyF4UzGrGkciGnn5
+INFO:root:HTTP Response: {"return":true,"results":{"pair_list":[{"over_aws_peering":"no","peering_state":"Up","license":{"id":"Utility","expiration":"2025-05-09"},"peering_ha_status":"disabled","cluster":"no","vpc_name2":"spoke-vpc-f940a381","vpc_name1":"hub-vpc-b53cb1cd","peering_link":""}]}}
+INFO:root:Executing API call:https://34.231.196.70/v1/api?action=list_peer_vpc_pairs&CID=ycIwEyF4UzGrGkciGnn5
+INFO:root:HTTP Response: {"return":true,"results":{"pair_list":[{"over_aws_peering":"no","peering_state":"Up","license":{"id":"Utility","expiration":"2025-05-09"},"peering_ha_status":"disabled","cluster":"no","vpc_name2":"spoke-vpc-f940a381","vpc_name1":"hub-vpc-b53cb1cd","peering_link":""}]}}
+INFO:root:Executing API call:https://34.231.196.70/v1/api?action=list_peer_vpc_pairs&CID=ycIwEyF4UzGrGkciGnn5
+INFO:root:HTTP Response: {"return":true,"results":{"pair_list":[{"over_aws_peering":"no","peering_state":"Up","license":{"id":"Utility","expiration":"2025-05-09"},"peering_ha_status":"disabled","cluster":"no","vpc_name2":"spoke-vpc-f940a381","vpc_name1":"hub-vpc-b53cb1cd","peering_link":""}]}}
+INFO:root:Executing API call:https://34.231.196.70/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"nlQnpee0YST0bwCEGvqY"}
+INFO:root:Executing API call:https://34.231.196.70/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"pVRPbkTPA47Co1SavxO9"}
+INFO:root:Executing API call:https://34.231.196.70/v1/api?action=enable_vpc_ha&vpc_name=hub-vpc-b53cb1cd&specific_subnet=subnet-b30ec39c&CID=pVRPbkTPA47Co1SavxO9
+INFO:root:HTTP Response: {"return":false,"reason":"valid action required"}
+INFO:root:Executing API call:https://34.231.196.70/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"o8oDOl4OwCxcTT30MgNZ"}
+INFO:root:Executing API call:https://34.231.196.70/v1/api?action=enable_vpc_ha&vpc_name=hub-vpc-b53cb1cd&specific_subnet=subnet-b30ec39c&CID=o8oDOl4OwCxcTT30MgNZ
+INFO:root:HTTP Response: {"return":false,"reason":"Error: Specified subnet subnet-b30ec39c does not exist"}
+INFO:root:Executing API call:https://34.231.196.70/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"m2VGx9XOdc9xJE21NZ4D"}
+INFO:root:Executing API call:https://34.224.233.167/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"zqZb2YysYFYhNF6b4Lwf"}
+INFO:root:Executing API call:https://34.224.233.167/v1/api?action=list_peer_vpc_pairs&CID=zqZb2YysYFYhNF6b4Lwf
+INFO:root:HTTP Response: {"return":true,"results":{"pair_list":[]}}
+INFO:root:Executing API call:https://34.224.233.167/v1/api?action=list_peer_vpc_pairs&CID=zqZb2YysYFYhNF6b4Lwf
+INFO:root:HTTP Response: {"return":true,"results":{"pair_list":[{"over_aws_peering":"no","peering_state":"Unknown","license":{"id":"Utility","expiration":"2025-05-09"},"peering_ha_status":"disabled","cluster":"no","vpc_name2":"spoke-vpc-f940a381","vpc_name1":"hub-vpc-31fc7349","peering_link":""}]}}
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-east-1.amazonaws.com
+INFO:root:Executing API call:https://34.231.123.6/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"f5csUiqea9k2rwRz7xQ8"}
+INFO:root:Executing API call:https://34.231.123.6/v1/api?action=list_peer_vpc_pairs&CID=f5csUiqea9k2rwRz7xQ8
+INFO:root:HTTP Response: {"return":true,"results":{"pair_list":[]}}
+INFO:root:Executing API call:https://34.231.123.6/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"tgqEPhBKFxas1oLpFAPy"}
+INFO:root:Executing API call:https://34.231.123.6/v1/api?action=list_vpcs_summary&account_name=admin&CID=tgqEPhBKFxas1oLpFAPy
+INFO:root:HTTP Response: {"return":true,"results":[{"intra_vm_route":"no","vpn_cidr":"","ha_enabled":"yes","direct_internet":"yes","designated_gateway":"No","enable_nat":"","inst_state":"running","bkup_gateway_zone":"us-east-1b","private_ip":"10.1.0.10","account_name":"AWSAccount","vpc_state":"up","is_hagw":"no","docker_ntwk_cidr":"","cloudn_gateway_inst_id":"i-019a51d481dad05b7","cloud_type":1,"vpc_region":"us-east-1","docker_ntwk_name":"","saml_enabled":"no","vpc_cidr":"10.1.0.0\/16","license_id":null,"max_connections":"","pbr_enabled":"no","gateway_zone":"us-east-1a","sandbox_ip":"54.88.5.18","elb_dns_name":"","tunnel_type":"N\/A","vpc_name":"hub-vpc-433f4e3b","client_cert_auth":"disabled","docker_consul_ip":"","vpc_splunk_ip_port":"","gw_subnet_id":"subnet-a349eb8c","tunnel_name":"","split_tunnel":"","elb_state":"disable","auth_method":"None","bkup_private_ip":"10.1.1.234","vpc_type":"vpc_legacy","cloudn_bkup_gateway_inst_id":"i-0aece25636b1bcbe0","client_cert_sharing":"disabled","gw_security_group_id":"sg-1c364869","vpc_size":"t2.small","expiration":null,"public_ip":"54.88.5.18","vpc_id":"vpc-433f4e3b~~Aviatrix VPC","vendor_name":"AWS","vpn_status":"disabled"}]}
+INFO:root:Executing API call:https://34.231.123.6/v1/api?action=list_vpcs_summary&account_name=admin&CID=tgqEPhBKFxas1oLpFAPy
+INFO:root:HTTP Response: {"return":true,"results":[{"intra_vm_route":"no","vpn_cidr":"","ha_enabled":"yes","direct_internet":"yes","designated_gateway":"No","enable_nat":"","inst_state":"running","bkup_gateway_zone":"us-east-1b","private_ip":"10.1.0.10","account_name":"AWSAccount","vpc_state":"up","is_hagw":"no","docker_ntwk_cidr":"","cloudn_gateway_inst_id":"i-019a51d481dad05b7","cloud_type":1,"vpc_region":"us-east-1","docker_ntwk_name":"","saml_enabled":"no","vpc_cidr":"10.1.0.0\/16","license_id":null,"max_connections":"","pbr_enabled":"no","gateway_zone":"us-east-1a","sandbox_ip":"54.88.5.18","elb_dns_name":"","tunnel_type":"N\/A","vpc_name":"hub-vpc-433f4e3b","client_cert_auth":"disabled","docker_consul_ip":"","vpc_splunk_ip_port":"","gw_subnet_id":"subnet-a349eb8c","tunnel_name":"","split_tunnel":"","elb_state":"disable","auth_method":"None","bkup_private_ip":"10.1.1.234","vpc_type":"vpc_legacy","cloudn_bkup_gateway_inst_id":"i-0aece25636b1bcbe0","client_cert_sharing":"disabled","gw_security_group_id":"sg-1c364869","vpc_size":"t2.small","expiration":null,"public_ip":"54.88.5.18","vpc_id":"vpc-433f4e3b~~Aviatrix VPC","vendor_name":"AWS","vpn_status":"disabled"}]}
+INFO:root:Executing API call:https://34.231.123.6/v1/api?action=list_peer_vpc_pairs&CID=tgqEPhBKFxas1oLpFAPy
+INFO:root:HTTP Response: {"return":true,"results":{"pair_list":[]}}
+INFO:root:Executing API call:https://34.231.123.6/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"1BfEtpyjik6MxanTYmBa"}
+INFO:root:Executing API call:https://34.231.123.6/v1/api?action=login&username=admin&password=1
+INFO:root:HTTP Response: {"return":false,"reason":"Login failed"}
+INFO:root:Executing API call:https://34.231.123.6/v1/api?action=login&username=admin&password=1
+INFO:root:HTTP Response: {"return":false,"reason":"Login failed"}
+INFO:root:Executing API call:https://34.231.123.6/v1/api?action=login&username=admin&password=Aviatrix123%23
+INFO:root:HTTP Response: {"return":true,"results":"User login:admin in account:admin has been authorized successfully - Please check email confirmation.","CID":"7sXrnxwAl9ExzGa1t4lh"}
+DEBUG:botocore.credentials:Looking for credentials via: env
+DEBUG:botocore.credentials:Looking for credentials via: assume-role
+DEBUG:botocore.credentials:Looking for credentials via: shared-credentials-file
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+DEBUG:botocore.loaders:Loading JSON file: /Library/Python/2.7/site-packages/botocore/data/endpoints.json
+DEBUG:botocore.loaders:Loading JSON file: /Library/Python/2.7/site-packages/botocore/data/ec2/2016-11-15/service-2.json
+DEBUG:botocore.loaders:Loading JSON file: /Library/Python/2.7/site-packages/botocore/data/_retry.json
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x1035b4488>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeRegions: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x1035e5350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeRegions: calling handler <function generate_idempotent_uuid at 0x1035e1b18>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeRegions) (verify_ssl=True) with params: {'body': {'Action': u'DescribeRegions', 'Version': u'2016-11-15'}, 'url': u'https://ec2.us-east-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'us-east-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x1043ed090>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeRegions: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x1043e1f90>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeRegions: calling handler <function set_operation_specific_signer at 0x1035e1a28>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.us-east-1.amazonaws.com
+x-amz-date:20171214T034411Z
+
+host;x-amz-date
+903451d1f3cda66f6ac7101b5810af53eb3ce6b47c5162b0b2238ce9086b6a0d
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034411Z
+20171214/us-east-1/ec2/aws4_request
+2537a740ddf0635cd974757f018a54b64cd0ac66db7fe7d84feea178e0feba7e
+DEBUG:botocore.auth:Signature:
+3854605369c925dcab71847d31cf518209d229f4ad6048c7229bf56e21191cfd
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-east-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:44:11 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeRegionsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>a98085a4-3933-4440-b70f-d8736aea6185</requestId>
+    <regionInfo>
+        <item>
+            <regionName>ap-south-1</regionName>
+            <regionEndpoint>ec2.ap-south-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>eu-west-2</regionName>
+            <regionEndpoint>ec2.eu-west-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>eu-west-1</regionName>
+            <regionEndpoint>ec2.eu-west-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-northeast-2</regionName>
+            <regionEndpoint>ec2.ap-northeast-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-northeast-1</regionName>
+            <regionEndpoint>ec2.ap-northeast-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>sa-east-1</regionName>
+            <regionEndpoint>ec2.sa-east-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ca-central-1</regionName>
+            <regionEndpoint>ec2.ca-central-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-southeast-1</regionName>
+            <regionEndpoint>ec2.ap-southeast-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-southeast-2</regionName>
+            <regionEndpoint>ec2.ap-southeast-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>eu-central-1</regionName>
+            <regionEndpoint>ec2.eu-central-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-east-1</regionName>
+            <regionEndpoint>ec2.us-east-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-east-2</regionName>
+            <regionEndpoint>ec2.us-east-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-west-1</regionName>
+            <regionEndpoint>ec2.us-west-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-west-2</regionName>
+            <regionEndpoint>ec2.us-west-2.amazonaws.com</regionEndpoint>
+        </item>
+    </regionInfo>
+</DescribeRegionsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeRegions: calling handler <botocore.retryhandler.RetryHandler object at 0x104388350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x1035b4488>
+DEBUG:botocore.client:Assuming an endpoint for ec2, Regions: https://ec2.Regions.amazonaws.com
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x1035e5350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x1035e1b18>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': 'https://ec2.Regions.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': u'Regions', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x104595550>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x1045954d0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x1035e1a28>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.Regions.amazonaws.com
+x-amz-date:20171214T034412Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034412Z
+20171214/Regions/ec2/aws4_request
+a6e9a2e84097dc7043e1b7fb22ac2008f167ed8ad2f36dcc3960346ba4840c41
+DEBUG:botocore.auth:Signature:
+3d9af5390d54fb549cabcac22c347809c3fa62c7797131d3065fd704ee8ab85c
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.Regions.amazonaws.com
+DEBUG:botocore.endpoint:ConnectionError received when sending HTTP request.
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/botocore/endpoint.py", line 204, in _get_response
+    proxies=self.proxies, timeout=self.timeout)
+  File "/Library/Python/2.7/site-packages/botocore/vendored/requests/sessions.py", line 573, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Python/2.7/site-packages/botocore/vendored/requests/adapters.py", line 415, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', gaierror(8, 'nodename nor servname provided, or not known'))
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x104388350>
+DEBUG:botocore.retryhandler:retry needed, retryable exception caught: Could not connect to the endpoint URL: "https://ec2.Regions.amazonaws.com/"
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 269, in _should_retry
+    return self._checker(attempt_number, response, caught_exception)
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 317, in __call__
+    caught_exception)
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 223, in __call__
+    attempt_number, caught_exception)
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 359, in _check_caught_exception
+    raise caught_exception
+EndpointConnectionError: Could not connect to the endpoint URL: "https://ec2.Regions.amazonaws.com/"
+DEBUG:botocore.retryhandler:Retry needed, action of: 0.0852962519281
+DEBUG:botocore.endpoint:Response received to retry, sleeping for 0.0852962519281 seconds
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x1045954d0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x1035e1a28>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.Regions.amazonaws.com
+x-amz-date:20171214T034412Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034412Z
+20171214/Regions/ec2/aws4_request
+a6e9a2e84097dc7043e1b7fb22ac2008f167ed8ad2f36dcc3960346ba4840c41
+DEBUG:botocore.auth:Signature:
+3d9af5390d54fb549cabcac22c347809c3fa62c7797131d3065fd704ee8ab85c
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (2): ec2.Regions.amazonaws.com
+DEBUG:botocore.endpoint:ConnectionError received when sending HTTP request.
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/botocore/endpoint.py", line 204, in _get_response
+    proxies=self.proxies, timeout=self.timeout)
+  File "/Library/Python/2.7/site-packages/botocore/vendored/requests/sessions.py", line 573, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Python/2.7/site-packages/botocore/vendored/requests/adapters.py", line 415, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', gaierror(8, 'nodename nor servname provided, or not known'))
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x104388350>
+DEBUG:botocore.retryhandler:retry needed, retryable exception caught: Could not connect to the endpoint URL: "https://ec2.Regions.amazonaws.com/"
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 269, in _should_retry
+    return self._checker(attempt_number, response, caught_exception)
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 317, in __call__
+    caught_exception)
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 223, in __call__
+    attempt_number, caught_exception)
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 359, in _check_caught_exception
+    raise caught_exception
+EndpointConnectionError: Could not connect to the endpoint URL: "https://ec2.Regions.amazonaws.com/"
+DEBUG:botocore.retryhandler:Retry needed, action of: 0.56039664126
+DEBUG:botocore.endpoint:Response received to retry, sleeping for 0.56039664126 seconds
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x1045954d0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x1035e1a28>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.Regions.amazonaws.com
+x-amz-date:20171214T034412Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034412Z
+20171214/Regions/ec2/aws4_request
+a6e9a2e84097dc7043e1b7fb22ac2008f167ed8ad2f36dcc3960346ba4840c41
+DEBUG:botocore.auth:Signature:
+3d9af5390d54fb549cabcac22c347809c3fa62c7797131d3065fd704ee8ab85c
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (3): ec2.Regions.amazonaws.com
+DEBUG:botocore.endpoint:ConnectionError received when sending HTTP request.
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/botocore/endpoint.py", line 204, in _get_response
+    proxies=self.proxies, timeout=self.timeout)
+  File "/Library/Python/2.7/site-packages/botocore/vendored/requests/sessions.py", line 573, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Python/2.7/site-packages/botocore/vendored/requests/adapters.py", line 415, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', gaierror(8, 'nodename nor servname provided, or not known'))
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x104388350>
+DEBUG:botocore.retryhandler:retry needed, retryable exception caught: Could not connect to the endpoint URL: "https://ec2.Regions.amazonaws.com/"
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 269, in _should_retry
+    return self._checker(attempt_number, response, caught_exception)
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 317, in __call__
+    caught_exception)
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 223, in __call__
+    attempt_number, caught_exception)
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 359, in _check_caught_exception
+    raise caught_exception
+EndpointConnectionError: Could not connect to the endpoint URL: "https://ec2.Regions.amazonaws.com/"
+DEBUG:botocore.retryhandler:Retry needed, action of: 2.5143134741
+DEBUG:botocore.endpoint:Response received to retry, sleeping for 2.5143134741 seconds
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x1045954d0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x1035e1a28>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.Regions.amazonaws.com
+x-amz-date:20171214T034415Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034415Z
+20171214/Regions/ec2/aws4_request
+af43c82aa04fbf75590c4e3e194a58d6ddd94e5a768cd8f6d06c356295eeaa31
+DEBUG:botocore.auth:Signature:
+759909586324f1aa70986564192f92b61fd8595fba0c4bf948e8bdc7657fe251
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (4): ec2.Regions.amazonaws.com
+DEBUG:botocore.endpoint:ConnectionError received when sending HTTP request.
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/botocore/endpoint.py", line 204, in _get_response
+    proxies=self.proxies, timeout=self.timeout)
+  File "/Library/Python/2.7/site-packages/botocore/vendored/requests/sessions.py", line 573, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Python/2.7/site-packages/botocore/vendored/requests/adapters.py", line 415, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', gaierror(8, 'nodename nor servname provided, or not known'))
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x104388350>
+DEBUG:botocore.retryhandler:retry needed, retryable exception caught: Could not connect to the endpoint URL: "https://ec2.Regions.amazonaws.com/"
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 269, in _should_retry
+    return self._checker(attempt_number, response, caught_exception)
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 317, in __call__
+    caught_exception)
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 223, in __call__
+    attempt_number, caught_exception)
+  File "/Library/Python/2.7/site-packages/botocore/retryhandler.py", line 359, in _check_caught_exception
+    raise caught_exception
+EndpointConnectionError: Could not connect to the endpoint URL: "https://ec2.Regions.amazonaws.com/"
+DEBUG:botocore.retryhandler:Retry needed, action of: 2.80489843679
+DEBUG:botocore.endpoint:Response received to retry, sleeping for 2.80489843679 seconds
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x1045954d0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x1035e1a28>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.Regions.amazonaws.com
+x-amz-date:20171214T034418Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034418Z
+20171214/Regions/ec2/aws4_request
+8159e0fa82a0b22cb40b6ede1e4aed0d4691352b6b74da925a69e47032aec459
+DEBUG:botocore.auth:Signature:
+3b2f63c99625c6d20af7fd895c07d00c3e7d3a8b979ace0ad5d19137b5104458
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (5): ec2.Regions.amazonaws.com
+DEBUG:botocore.endpoint:ConnectionError received when sending HTTP request.
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/botocore/endpoint.py", line 204, in _get_response
+    proxies=self.proxies, timeout=self.timeout)
+  File "/Library/Python/2.7/site-packages/botocore/vendored/requests/sessions.py", line 573, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Python/2.7/site-packages/botocore/vendored/requests/adapters.py", line 415, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', gaierror(8, 'nodename nor servname provided, or not known'))
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x104388350>
+DEBUG:botocore.credentials:Looking for credentials via: env
+DEBUG:botocore.credentials:Looking for credentials via: assume-role
+DEBUG:botocore.credentials:Looking for credentials via: shared-credentials-file
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+DEBUG:botocore.loaders:Loading JSON file: /Library/Python/2.7/site-packages/botocore/data/endpoints.json
+DEBUG:botocore.loaders:Loading JSON file: /Library/Python/2.7/site-packages/botocore/data/ec2/2016-11-15/service-2.json
+DEBUG:botocore.loaders:Loading JSON file: /Library/Python/2.7/site-packages/botocore/data/_retry.json
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10c50a410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeRegions: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10c53c350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeRegions: calling handler <function generate_idempotent_uuid at 0x10c538aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeRegions) (verify_ssl=True) with params: {'body': {'Action': u'DescribeRegions', 'Version': u'2016-11-15'}, 'url': u'https://ec2.us-east-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'us-east-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10d297090>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeRegions: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10d28bf90>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeRegions: calling handler <function set_operation_specific_signer at 0x10c5389b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.us-east-1.amazonaws.com
+x-amz-date:20171214T034556Z
+
+host;x-amz-date
+903451d1f3cda66f6ac7101b5810af53eb3ce6b47c5162b0b2238ce9086b6a0d
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034556Z
+20171214/us-east-1/ec2/aws4_request
+f79c20af414221a69909e1e273db085f29e56c70c074758c33b02e0fb6d5abea
+DEBUG:botocore.auth:Signature:
+99dabcfaf33e2d68e3af7d28051c39171edc54c2f500c7a258d35ae71c2207e2
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-east-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:45:57 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeRegionsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>02766617-b204-4d10-b584-6669ba59dd01</requestId>
+    <regionInfo>
+        <item>
+            <regionName>ap-south-1</regionName>
+            <regionEndpoint>ec2.ap-south-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>eu-west-2</regionName>
+            <regionEndpoint>ec2.eu-west-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>eu-west-1</regionName>
+            <regionEndpoint>ec2.eu-west-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-northeast-2</regionName>
+            <regionEndpoint>ec2.ap-northeast-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-northeast-1</regionName>
+            <regionEndpoint>ec2.ap-northeast-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>sa-east-1</regionName>
+            <regionEndpoint>ec2.sa-east-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ca-central-1</regionName>
+            <regionEndpoint>ec2.ca-central-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-southeast-1</regionName>
+            <regionEndpoint>ec2.ap-southeast-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-southeast-2</regionName>
+            <regionEndpoint>ec2.ap-southeast-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>eu-central-1</regionName>
+            <regionEndpoint>ec2.eu-central-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-east-1</regionName>
+            <regionEndpoint>ec2.us-east-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-east-2</regionName>
+            <regionEndpoint>ec2.us-east-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-west-1</regionName>
+            <regionEndpoint>ec2.us-west-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-west-2</regionName>
+            <regionEndpoint>ec2.us-west-2.amazonaws.com</regionEndpoint>
+        </item>
+    </regionInfo>
+</DescribeRegionsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeRegions: calling handler <botocore.retryhandler.RetryHandler object at 0x10d232350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.credentials:Looking for credentials via: env
+DEBUG:botocore.credentials:Looking for credentials via: assume-role
+DEBUG:botocore.credentials:Looking for credentials via: shared-credentials-file
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+DEBUG:botocore.loaders:Loading JSON file: /Library/Python/2.7/site-packages/botocore/data/endpoints.json
+DEBUG:botocore.loaders:Loading JSON file: /Library/Python/2.7/site-packages/botocore/data/ec2/2016-11-15/service-2.json
+DEBUG:botocore.loaders:Loading JSON file: /Library/Python/2.7/site-packages/botocore/data/_retry.json
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeRegions: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeRegions: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeRegions) (verify_ssl=True) with params: {'body': {'Action': u'DescribeRegions', 'Version': u'2016-11-15'}, 'url': u'https://ec2.us-east-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'us-east-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10cc69090>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeRegions: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10cc5df90>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeRegions: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.us-east-1.amazonaws.com
+x-amz-date:20171214T034707Z
+
+host;x-amz-date
+903451d1f3cda66f6ac7101b5810af53eb3ce6b47c5162b0b2238ce9086b6a0d
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034707Z
+20171214/us-east-1/ec2/aws4_request
+2083cf6a661a31c5f18c8ed9f950cdb92fc84cc462ada86041a30b8a6672e754
+DEBUG:botocore.auth:Signature:
+f990fc197ebd6975f289dc7f78aa5b9cb81dac5da13d40e8bc63a0e2f9813299
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-east-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:08 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeRegionsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>cbb75a51-14c6-41de-a495-799c5361e9eb</requestId>
+    <regionInfo>
+        <item>
+            <regionName>ap-south-1</regionName>
+            <regionEndpoint>ec2.ap-south-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>eu-west-2</regionName>
+            <regionEndpoint>ec2.eu-west-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>eu-west-1</regionName>
+            <regionEndpoint>ec2.eu-west-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-northeast-2</regionName>
+            <regionEndpoint>ec2.ap-northeast-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-northeast-1</regionName>
+            <regionEndpoint>ec2.ap-northeast-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>sa-east-1</regionName>
+            <regionEndpoint>ec2.sa-east-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ca-central-1</regionName>
+            <regionEndpoint>ec2.ca-central-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-southeast-1</regionName>
+            <regionEndpoint>ec2.ap-southeast-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-southeast-2</regionName>
+            <regionEndpoint>ec2.ap-southeast-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>eu-central-1</regionName>
+            <regionEndpoint>ec2.eu-central-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-east-1</regionName>
+            <regionEndpoint>ec2.us-east-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-east-2</regionName>
+            <regionEndpoint>ec2.us-east-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-west-1</regionName>
+            <regionEndpoint>ec2.us-west-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-west-2</regionName>
+            <regionEndpoint>ec2.us-west-2.amazonaws.com</regionEndpoint>
+        </item>
+    </regionInfo>
+</DescribeRegionsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeRegions: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.ap-south-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'ap-south-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10de3f590>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10de3f510>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.ap-south-1.amazonaws.com
+x-amz-date:20171214T034708Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034708Z
+20171214/ap-south-1/ec2/aws4_request
+42ec3978f4d14b12d3da0cd3adb9d487c56c03b1bd665281cc7aeeda7b4ac056
+DEBUG:botocore.auth:Signature:
+2d176f8e9e2b27e93afc5c3b7a427599e7a71e3e364e59cef722c5c4cf66f2a2
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.ap-south-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:09 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>7cacefdf-5e73-4aa3-a82d-6400096d4c26</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.eu-west-2.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'eu-west-2', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10dead8d0>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10dead850>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.eu-west-2.amazonaws.com
+x-amz-date:20171214T034709Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034709Z
+20171214/eu-west-2/ec2/aws4_request
+2a8f8393355a528776bce358152c43130e6c9dd03ec6bd454dffae58ccb24f13
+DEBUG:botocore.auth:Signature:
+92820e2506bc64658aa528a2427d3a191e7e7e5223200777c6d3c5ab97834d67
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.eu-west-2.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:09 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>2c325ecb-3564-4589-8849-877aa103cd5a</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.eu-west-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'eu-west-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10de0ad10>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10de0ac90>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.eu-west-1.amazonaws.com
+x-amz-date:20171214T034710Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034710Z
+20171214/eu-west-1/ec2/aws4_request
+3ecce4f789092b4565834b6cc619804e935b712d33d11880a26317f37131029c
+DEBUG:botocore.auth:Signature:
+18a07c0181c83fea257d92fd28bf4774efd69e39238106632dae469536d9a3ad
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.eu-west-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:11 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>0c829c97-b119-4119-b0ca-07d0c9a04b9f</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.ap-northeast-2.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'ap-northeast-2', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10df49050>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10df40f90>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.ap-northeast-2.amazonaws.com
+x-amz-date:20171214T034711Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034711Z
+20171214/ap-northeast-2/ec2/aws4_request
+7aad0d8ecf1cbedc02d1b9633745ecebafef7fa057049145d34aa5cdd9d483ee
+DEBUG:botocore.auth:Signature:
+eec0af3061febbeb5c388ecd8214010a07f0b310ded224f7e4472c33a3034f65
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.ap-northeast-2.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:11 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>1eca5def-4612-4255-8aa3-5129ecfd3c3c</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.ap-northeast-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'ap-northeast-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10deade90>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10def90d0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.ap-northeast-1.amazonaws.com
+x-amz-date:20171214T034712Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034712Z
+20171214/ap-northeast-1/ec2/aws4_request
+4380dad2e4d3442bed79a877fbaa1159ab507becbf903df1b471f497e4b99330
+DEBUG:botocore.auth:Signature:
+2fa97c835c2eff59c2cc96b6a1de6df265900875bd0eea18c964b70458d1405f
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.ap-northeast-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:12 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>aab257a3-dddb-499a-9a94-7de80d7881d5</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.sa-east-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'sa-east-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10dfde610>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10dfde590>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.sa-east-1.amazonaws.com
+x-amz-date:20171214T034713Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034713Z
+20171214/sa-east-1/ec2/aws4_request
+52eb267bb59470033d783e28e3b8535fdadf0b029ec437a64bc90779f946d0bd
+DEBUG:botocore.auth:Signature:
+4319fe880d8058475d1cefd4c978b408aee8239331aa2a5e3f3e0821f674e403
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.sa-east-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:13 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>2084b1eb-1817-49a7-8f57-66eaa9e9de6f</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.ca-central-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'ca-central-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10e04c750>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10e04c6d0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.ca-central-1.amazonaws.com
+x-amz-date:20171214T034714Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034714Z
+20171214/ca-central-1/ec2/aws4_request
+1e9a883c29cf4e726eb7846dded1c1961baffe1da181691640cc6be9bcb83713
+DEBUG:botocore.auth:Signature:
+59c63eba452d0f01ba909018b19756a9c6ab0fcf8688c4c4d305a31905c39824
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.ca-central-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:14 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>77c00a11-f91a-42b1-bedb-4a5f1195fedd</requestId>
+    <vpcSet>
+        <item>
+            <vpcId>vpc-7a169913</vpcId>
+            <state>available</state>
+            <cidrBlock>172.31.0.0/16</cidrBlock>
+            <cidrBlockAssociationSet>
+                <item>
+                    <cidrBlock>172.31.0.0/16</cidrBlock>
+                    <associationId>vpc-cidr-assoc-1639b97f</associationId>
+                    <cidrBlockState>
+                        <state>associated</state>
+                    </cidrBlockState>
+                </item>
+            </cidrBlockAssociationSet>
+            <dhcpOptionsId>dopt-ebe27782</dhcpOptionsId>
+            <instanceTenancy>default</instanceTenancy>
+            <isDefault>true</isDefault>
+        </item>
+    </vpcSet>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.ap-southeast-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'ap-southeast-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10dfbfd50>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10dfbfcd0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.ap-southeast-1.amazonaws.com
+x-amz-date:20171214T034714Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034714Z
+20171214/ap-southeast-1/ec2/aws4_request
+f6f63807653a355c9be1cf99bde3da5a8879f84ff418e3e917db2e912c9e166d
+DEBUG:botocore.auth:Signature:
+9f708a90dab30c09f6343c60f87791d8ba46f28704c4875e17eb600a40bd0711
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.ap-southeast-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:14 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>e4146c0d-4902-44a3-be2a-bee3ecf8f23c</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.ap-southeast-2.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'ap-southeast-2', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10e0e1f90>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10e0e1f10>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.ap-southeast-2.amazonaws.com
+x-amz-date:20171214T034715Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034715Z
+20171214/ap-southeast-2/ec2/aws4_request
+8950b457f47e34985375eeef320855b233e34fd924434ef9bb7bbde113734876
+DEBUG:botocore.auth:Signature:
+5a8c18e4052f5733e462e8cfa97750db15d50027ebd755ef0e94911edffd7560
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.ap-southeast-2.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:15 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>c0b59135-5dbe-419b-a7aa-670b48f685d6</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.eu-central-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'eu-central-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10e158250>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10e1581d0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.eu-central-1.amazonaws.com
+x-amz-date:20171214T034716Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034716Z
+20171214/eu-central-1/ec2/aws4_request
+6125cee9f54c729297c767158aa047ead5635a93b371255a3fcd6baf26eed3cf
+DEBUG:botocore.auth:Signature:
+6db4c972d18ae7a85f72a1e5fa1e003b801f6d591d1cdacaa47d6b4568659384
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.eu-central-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:16 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>2addc3ae-12c7-4b6b-989a-0e2b2bce6816</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.us-east-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'us-east-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10dfe4850>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10dfe47d0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.us-east-1.amazonaws.com
+x-amz-date:20171214T034717Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034717Z
+20171214/us-east-1/ec2/aws4_request
+e45ef549b95c6deb8d3ed925396eec93f2178f579b7538244c6b0b781e856c8d
+DEBUG:botocore.auth:Signature:
+d1c4324541c64f5c1403957897466fdeceb8b0018236f266a1e64407b61fc9d8
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-east-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:17 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>a9f6dc00-e606-4c2c-a154-214f9a724036</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.us-east-2.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'us-east-2', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10e1a5b90>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10e1a5b10>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.us-east-2.amazonaws.com
+x-amz-date:20171214T034717Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034717Z
+20171214/us-east-2/ec2/aws4_request
+4e05eb3595e2b18d19153c5ec9d4664625a5cdefd945aacee8bab7cbb28d340c
+DEBUG:botocore.auth:Signature:
+9885e06efd6350d3335b9502a835a699cf8d20da3e7e7480a8e16ebc03cd226b
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-east-2.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:17 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>f8be9f38-57e3-4bf7-9b89-a9044ecff1e4</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.us-west-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'us-west-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10e0d6e10>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10e07f290>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.us-west-1.amazonaws.com
+x-amz-date:20171214T034718Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034718Z
+20171214/us-west-1/ec2/aws4_request
+9d0655d2af56fd8ef5ebbabd992f4825d000b5f81c12502c1b7b4bf6cc773110
+DEBUG:botocore.auth:Signature:
+79d726ed892ca1f63c1e2bccfe924e2e1b7731fbcb0f1d5d2a4b372a5285ed75
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-west-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:17 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>6487d13d-ba38-4928-ad64-de3b0725422c</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x10bedd410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x10bf0e350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x10bf0aaa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.us-west-2.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'us-west-2', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10e2400d0>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10e240050>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x10bf0a9b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.us-west-2.amazonaws.com
+x-amz-date:20171214T034718Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034718Z
+20171214/us-west-2/ec2/aws4_request
+ca952bd4d5650b2e73033fd6ae952108be43478d21b0c55a5f5ec1ef9b510864
+DEBUG:botocore.auth:Signature:
+322b1b0525f97bf64630d984476fb2840469bfde2d5b6ce17d359369ca890dfa
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-west-2.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:47:18 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>eaab5fad-e188-45fb-9528-28752631b257</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x10cc04350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.credentials:Looking for credentials via: env
+DEBUG:botocore.credentials:Looking for credentials via: assume-role
+DEBUG:botocore.credentials:Looking for credentials via: shared-credentials-file
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+DEBUG:botocore.loaders:Loading JSON file: /Library/Python/2.7/site-packages/botocore/data/endpoints.json
+DEBUG:botocore.loaders:Loading JSON file: /Library/Python/2.7/site-packages/botocore/data/ec2/2016-11-15/service-2.json
+DEBUG:botocore.loaders:Loading JSON file: /Library/Python/2.7/site-packages/botocore/data/_retry.json
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeRegions: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeRegions: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeRegions) (verify_ssl=True) with params: {'body': {'Action': u'DescribeRegions', 'Version': u'2016-11-15'}, 'url': u'https://ec2.us-east-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'us-east-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x103bc1090>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeRegions: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x103bb5f90>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeRegions: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.us-east-1.amazonaws.com
+x-amz-date:20171214T034822Z
+
+host;x-amz-date
+903451d1f3cda66f6ac7101b5810af53eb3ce6b47c5162b0b2238ce9086b6a0d
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034822Z
+20171214/us-east-1/ec2/aws4_request
+c2c92f331c88a7d5c0ad3c2e3723fa5a69f9a3c185d86f4cb10fb61673b6b68f
+DEBUG:botocore.auth:Signature:
+c4b4920500cfee865417e35435619e4d2b48955022850c1c197d6888fd41f54e
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-east-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:23 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeRegionsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>d6818dfc-0b88-4583-a68b-b7e7157fa44a</requestId>
+    <regionInfo>
+        <item>
+            <regionName>ap-south-1</regionName>
+            <regionEndpoint>ec2.ap-south-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>eu-west-2</regionName>
+            <regionEndpoint>ec2.eu-west-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>eu-west-1</regionName>
+            <regionEndpoint>ec2.eu-west-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-northeast-2</regionName>
+            <regionEndpoint>ec2.ap-northeast-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-northeast-1</regionName>
+            <regionEndpoint>ec2.ap-northeast-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>sa-east-1</regionName>
+            <regionEndpoint>ec2.sa-east-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ca-central-1</regionName>
+            <regionEndpoint>ec2.ca-central-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-southeast-1</regionName>
+            <regionEndpoint>ec2.ap-southeast-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>ap-southeast-2</regionName>
+            <regionEndpoint>ec2.ap-southeast-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>eu-central-1</regionName>
+            <regionEndpoint>ec2.eu-central-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-east-1</regionName>
+            <regionEndpoint>ec2.us-east-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-east-2</regionName>
+            <regionEndpoint>ec2.us-east-2.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-west-1</regionName>
+            <regionEndpoint>ec2.us-west-1.amazonaws.com</regionEndpoint>
+        </item>
+        <item>
+            <regionName>us-west-2</regionName>
+            <regionEndpoint>ec2.us-west-2.amazonaws.com</regionEndpoint>
+        </item>
+    </regionInfo>
+</DescribeRegionsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeRegions: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.ap-south-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'ap-south-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x104d79590>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x104d79510>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.ap-south-1.amazonaws.com
+x-amz-date:20171214T034823Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034823Z
+20171214/ap-south-1/ec2/aws4_request
+36189b281f2a79d2e105de2fa0f4c5cf1b8e4d960374e6d654d33b3b30ed80ed
+DEBUG:botocore.auth:Signature:
+9b4587c1fb7e26915397267c861ff5396119ca49e129105e64e8df092b967c24
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.ap-south-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:23 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>b77c45aa-f69e-4a03-b10e-1fb7e375a893</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.eu-west-2.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'eu-west-2', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x104de78d0>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x104de7850>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.eu-west-2.amazonaws.com
+x-amz-date:20171214T034824Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034824Z
+20171214/eu-west-2/ec2/aws4_request
+669b75d58fe621273ef1b4c0cbd16c37e8b676c94052367f0f51e7676f31450b
+DEBUG:botocore.auth:Signature:
+0bbca5df3241a6c90045090cde7fdff1a0d8e1fd289dad5256685780dc70f7f0
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.eu-west-2.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:24 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>c60addb0-7642-45f2-88fc-c441c24432f3</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.eu-west-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'eu-west-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x104d44d10>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x104d44c90>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.eu-west-1.amazonaws.com
+x-amz-date:20171214T034825Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034825Z
+20171214/eu-west-1/ec2/aws4_request
+e5c7a271354de599d41ead62c8ec1613ee7682ccb3d39aa7a8e75259b50e553a
+DEBUG:botocore.auth:Signature:
+50165189ea204bcb45faef87cee366ee735091b59618f0e084a3aa5f82968542
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.eu-west-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:25 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>d215c453-cdab-4519-9ee0-b74a434ece24</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.ap-northeast-2.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'ap-northeast-2', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x104e83050>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x104e7af90>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.ap-northeast-2.amazonaws.com
+x-amz-date:20171214T034826Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034826Z
+20171214/ap-northeast-2/ec2/aws4_request
+a7a8426140d36b54290b699091bdb8a3d4b3a1310acce5aa7a160b71c6f0db9a
+DEBUG:botocore.auth:Signature:
+f2f9a51f44b090c2d3492293abbf31b07ef8b997d233ca1ecba7284b65741695
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.ap-northeast-2.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:26 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>7f9ef1f3-5336-4fd5-9917-3f80ff76dd7e</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.ap-northeast-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'ap-northeast-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x104de7e90>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x104e330d0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.ap-northeast-1.amazonaws.com
+x-amz-date:20171214T034827Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034827Z
+20171214/ap-northeast-1/ec2/aws4_request
+34ea03dc4f1e681ffc53f4737ef7b232bc485902c16c646735d45c47edcfa176
+DEBUG:botocore.auth:Signature:
+461f0cec9ec6f5f3b1b6e00e6b8fef2ef9145c24afc27befeeee19d7b16cec36
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.ap-northeast-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:27 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>1d631f5d-a6af-4063-89be-1b12af62fdc8</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.sa-east-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'sa-east-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x104f18610>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x104f18590>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.sa-east-1.amazonaws.com
+x-amz-date:20171214T034827Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034827Z
+20171214/sa-east-1/ec2/aws4_request
+be45eb9a4400e3993d3a4f1a033cd2add33c40d22d8841f23d00bdbd70a36077
+DEBUG:botocore.auth:Signature:
+1bec9b4685a0df9ed10e4f153183348ab44bff23183624baa7a70602606bb0c5
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.sa-east-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:28 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>40b33637-27ed-47a1-b6f1-b797cc2e0bc5</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.ca-central-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'ca-central-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x104f85750>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x104f856d0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.ca-central-1.amazonaws.com
+x-amz-date:20171214T034828Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034828Z
+20171214/ca-central-1/ec2/aws4_request
+688ef1e7e0c9fc370aa57d255c8cc5e557d6ba2e92406f20e25f4e0b022247be
+DEBUG:botocore.auth:Signature:
+fe3da766a13e20a5b0ad0bbe08cca13753e05eba1ff77054fed9af89112c75d9
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.ca-central-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:28 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>0b8edc05-da86-4d24-bc93-18ca13ed9b65</requestId>
+    <vpcSet>
+        <item>
+            <vpcId>vpc-7a169913</vpcId>
+            <state>available</state>
+            <cidrBlock>172.31.0.0/16</cidrBlock>
+            <cidrBlockAssociationSet>
+                <item>
+                    <cidrBlock>172.31.0.0/16</cidrBlock>
+                    <associationId>vpc-cidr-assoc-1639b97f</associationId>
+                    <cidrBlockState>
+                        <state>associated</state>
+                    </cidrBlockState>
+                </item>
+            </cidrBlockAssociationSet>
+            <dhcpOptionsId>dopt-ebe27782</dhcpOptionsId>
+            <instanceTenancy>default</instanceTenancy>
+            <isDefault>true</isDefault>
+        </item>
+    </vpcSet>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.ap-southeast-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'ap-southeast-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x104ef9d50>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x104ef9cd0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.ap-southeast-1.amazonaws.com
+x-amz-date:20171214T034829Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034829Z
+20171214/ap-southeast-1/ec2/aws4_request
+32a3de84585a85e9a5b4844f83c622e719bb6cc97cb8b8bc8d86601ed30cdc2c
+DEBUG:botocore.auth:Signature:
+2bbb8cfb389d46ab119b954fa4ca250bd719bf40793ef579b2f7ef16cb86444c
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.ap-southeast-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:29 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>f8e227c8-0f45-46df-87c1-948c026f2e0e</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.ap-southeast-2.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'ap-southeast-2', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10501bf90>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10501bf10>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.ap-southeast-2.amazonaws.com
+x-amz-date:20171214T034830Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034830Z
+20171214/ap-southeast-2/ec2/aws4_request
+d41f44a8aad9f91b5ff19c7450a694d58f49c4dff6d09de481f27d3c593d09fc
+DEBUG:botocore.auth:Signature:
+ba0b328d3bd725cbd85d75f538da91679a7d6fbfd8b4e3d646bbd32c45033a88
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.ap-southeast-2.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:29 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>b68f0229-70a6-4b9f-940b-0115f0bdb59b</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.eu-central-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'eu-central-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x105092250>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x1050921d0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.eu-central-1.amazonaws.com
+x-amz-date:20171214T034831Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034831Z
+20171214/eu-central-1/ec2/aws4_request
+a3be84dbc52f40d4f8f8add5725546c85538a3c1824d77c4469006ca054cb4ab
+DEBUG:botocore.auth:Signature:
+9ccce9eebe319b7cc1ca37e43f5b2955db2eedb4380a306d6f110c1271882c38
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.eu-central-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:30 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>76728072-2756-4a1c-9acc-67444e34856c</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.us-east-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'us-east-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x104f1e850>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x104f1e7d0>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.us-east-1.amazonaws.com
+x-amz-date:20171214T034831Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034831Z
+20171214/us-east-1/ec2/aws4_request
+2f4388c587e1361463cefc3f81f1afb8f92d934469c9009b25fac44fcebf50cf
+DEBUG:botocore.auth:Signature:
+ca95a8af5c4e63f3bcef3166f7325ecc42ab8ac03fcaf55164d1adef38f01e10
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-east-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:31 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>0649f99f-ce2b-4419-8956-561e0b51f29b</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.us-east-2.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'us-east-2', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x1050dfb90>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x1050dfb10>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.us-east-2.amazonaws.com
+x-amz-date:20171214T034832Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034832Z
+20171214/us-east-2/ec2/aws4_request
+cc37bad0200f988829abd9e51a6a68e6cbf120f7b8a1248cc143e8e593f827f8
+DEBUG:botocore.auth:Signature:
+fce4bd1ea7fb34d6db11ff8a4cf8c89329d22769a0ac502a92a21fe1d2f42602
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-east-2.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:32 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>461b4a7e-e41a-45be-b99f-8fbc7015a0a9</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.us-west-1.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'us-west-1', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x105010e10>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x104fb9290>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.us-west-1.amazonaws.com
+x-amz-date:20171214T034832Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034832Z
+20171214/us-west-1/ec2/aws4_request
+b2330173f5123dd280b5ffe6a4ade7333c9c36a2f7a9487356bab2318753dc20
+DEBUG:botocore.auth:Signature:
+2ac81b4b8abaa1a07d3608fcc8b31dba2f8b12dc1b5e4145fb837696c1996d84
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-west-1.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:31 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>9b99160e-9950-44f9-b665-e78dcb7424d5</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+DEBUG:botocore.client:Registering retry handlers for service: ec2
+DEBUG:botocore.hooks:Event creating-client-class.ec2: calling handler <function add_generate_presigned_url at 0x102e35410>
+DEBUG:botocore.args:The s3 config key is not a dictionary type, ignoring its value of: None
+DEBUG:botocore.endpoint:Setting ec2 timeout as (60, 60)
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <bound method ParameterAlias.alias_parameter_in_call of <botocore.handlers.ParameterAlias object at 0x102e66350>>
+DEBUG:botocore.hooks:Event before-parameter-build.ec2.DescribeVpcs: calling handler <function generate_idempotent_uuid at 0x102e62aa0>
+DEBUG:botocore.endpoint:Making request for OperationModel(name=DescribeVpcs) (verify_ssl=True) with params: {'body': {'Action': u'DescribeVpcs', u'Filter.1.Value.1': 'vpc-7a169913', 'Version': u'2016-11-15', u'Filter.1.Name': 'vpc-id'}, 'url': u'https://ec2.us-west-2.amazonaws.com/', 'headers': {'User-Agent': 'Boto3/1.4.4 Python/2.7.10 Darwin/16.7.0 Botocore/1.5.95'}, 'context': {'auth_type': None, 'client_region': 'us-west-2', 'has_streaming_input': False, 'client_config': <botocore.config.Config object at 0x10517a0d0>}, 'query_string': '', 'url_path': '/', 'method': u'POST'}
+DEBUG:botocore.hooks:Event request-created.ec2.DescribeVpcs: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x10517a050>>
+DEBUG:botocore.hooks:Event choose-signer.ec2.DescribeVpcs: calling handler <function set_operation_specific_signer at 0x102e629b0>
+DEBUG:botocore.auth:Calculating signature using v4 auth.
+DEBUG:botocore.auth:CanonicalRequest:
+POST
+/
+
+host:ec2.us-west-2.amazonaws.com
+x-amz-date:20171214T034832Z
+
+host;x-amz-date
+13606626020e863b7f94547f675a1cd4dca9f3a31e9330ead6ff849d9e8829bc
+DEBUG:botocore.auth:StringToSign:
+AWS4-HMAC-SHA256
+20171214T034832Z
+20171214/us-west-2/ec2/aws4_request
+002746d2967eef5d008b5796d7441eab48fd2630809b5d3db10f2628375066d1
+DEBUG:botocore.auth:Signature:
+016fe43fa06070273794fd41cd8a49cecb43b5ef19380bb365a6d4dd2593862f
+DEBUG:botocore.endpoint:Sending http request: <PreparedRequest [POST]>
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): ec2.us-west-2.amazonaws.com
+DEBUG:botocore.vendored.requests.packages.urllib3.connectionpool:"POST / HTTP/1.1" 200 None
+DEBUG:botocore.parsers:Response headers: {'transfer-encoding': 'chunked', 'vary': 'Accept-Encoding', 'server': 'AmazonEC2', 'content-type': 'text/xml;charset=UTF-8', 'date': 'Thu, 14 Dec 2017 03:48:32 GMT'}
+DEBUG:botocore.parsers:Response body:
+<?xml version="1.0" encoding="UTF-8"?>
+<DescribeVpcsResponse xmlns="http://ec2.amazonaws.com/doc/2016-11-15/">
+    <requestId>dcc1c97d-0bc6-4df5-a776-852da8bdae9a</requestId>
+    <vpcSet/>
+</DescribeVpcsResponse>
+DEBUG:botocore.hooks:Event needs-retry.ec2.DescribeVpcs: calling handler <botocore.retryhandler.RetryHandler object at 0x103b5c350>
+DEBUG:botocore.retryhandler:No retry needed.
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=add_admin_email_addr
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=change_password
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=initial_setup
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=add_admin_email_addr
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=change_password
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=initial_setup
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=add_admin_email_addr
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=change_password
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=initial_setup
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=add_admin_email_addr
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=change_password
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=initial_setup
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=add_admin_email_addr
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=change_password
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=initial_setup
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=add_admin_email_addr
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=change_password
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=initial_setup
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=add_admin_email_addr
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=change_password
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=initial_setup
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=add_admin_email_addr
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=change_password
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=initial_setup
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=add_admin_email_addr
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=change_password
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=initial_setup
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Seems like we weren't able to connect to the controller, please check Controller information
+INFO:root:Done with Initial Controller Setup
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Done with Initial Controller Setup
+INFO:root:Setting up AWS Account
+INFO:root:Executing API call:https://None/v1/api?action=setup_account_profile
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Done with Setting up AWS account
+INFO:root:Done with Account creation
+INFO:root:Creating Hub VPC None. Sending SQS message
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=add_admin_email_addr
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=change_password
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=initial_setup
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Seems like we weren't able to connect to the controller, please check Controller information
+INFO:root:Done with Initial Controller Setup
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Done with Initial Controller Setup
+INFO:root:Setting up AWS Account
+INFO:root:Executing API call:https://None/v1/api?action=setup_account_profile
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Done with Setting up AWS account
+INFO:root:Done with Account creation
+INFO:root:Creating Hub VPC None. Sending SQS message
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=add_admin_email_addr
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=change_password
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Executing API call:https://None/v1/api?action=initial_setup
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Seems like we weren't able to connect to the controller, please check Controller information
+INFO:root:Done with Initial Controller Setup
+INFO:root:Executing API call:https://None/v1/api?action=login
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Login Request Failed. AttributeError: 'Aviatrix' object has no attribute 'result'
+INFO:root:Done with Initial Controller Setup
+INFO:root:Setting up AWS Account
+INFO:root:Executing API call:https://None/v1/api?action=setup_account_profile
+INFO:root:Failed request. URLError: [Errno -2] Name or service not known
+INFO:root:Done with Setting up AWS account
+INFO:root:Done with Account creation
+INFO:root:Creating Hub VPC None. Sending SQS message
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:botocore.credentials:Found credentials in environment variables.
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): sts.amazonaws.com
+INFO:root:Executing API call:https://35.170.32.194/v1/api?action=login
+INFO:root:HTTP Response: b'{"return":false,"reason":"Username cannot be blank."}'
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): 169.254.169.254
+INFO:botocore.vendored.requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): 169.254.169.254
