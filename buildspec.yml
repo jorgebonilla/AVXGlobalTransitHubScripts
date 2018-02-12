@@ -28,4 +28,4 @@ phases:
 artifacts:
   files:
     - aviatrix_*.py.zip
-  base-directory: AVXNGGlobalTransitHubScripts
+  base-directory: AVXNGGlobalTransitHubScripts/scripts
