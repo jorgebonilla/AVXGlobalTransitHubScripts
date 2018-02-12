@@ -4,7 +4,7 @@ phases:
     commands:
       - echo Entered the install phase...
       - apt-get update
-      - apt-get install -y zip curl
+      - apt-get install -y zip
       - echo Installing pip requirements...
       - pip install -r requirements.txt
   build:
@@ -27,5 +27,5 @@ phases:
       - zip -j AVXNGGlobalTransitHubScripts/scripts/aviatrix_poller.py.zip AVXNGGlobalTransitHubScripts/scripts/aviatrix_poller.py
 artifacts:
   files:
-    - scripts/aviatrix_*.py.zip
+    - aviatrix_*.py.zip
   base-directory: AVXNGGlobalTransitHubScripts
